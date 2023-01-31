@@ -2,4 +2,4 @@ Este es un archivo de prueba creado para practicar git
 
 Voy agregar mi segun commit
 
-agregando otra linea
+agregando otra linea al repositorio
